@@ -20,4 +20,4 @@ Este es un programa simple en Java para gestionar contactos utilizando un archiv
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Ismaeltg05/GestorContactos
+   git clone https://github.com/Ismaeltg05/GestorContactos.git
